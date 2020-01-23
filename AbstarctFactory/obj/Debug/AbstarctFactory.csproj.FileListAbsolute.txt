@@ -1,0 +1,6 @@
+C:\Users\emine\source\repos\AbstractFactory\AbstarctFactory\bin\Debug\AbstarctFactory.exe.config
+C:\Users\emine\source\repos\AbstractFactory\AbstarctFactory\bin\Debug\AbstarctFactory.exe
+C:\Users\emine\source\repos\AbstractFactory\AbstarctFactory\bin\Debug\AbstarctFactory.pdb
+C:\Users\emine\source\repos\AbstractFactory\AbstarctFactory\obj\Debug\AbstarctFactory.csprojAssemblyReference.cache
+C:\Users\emine\source\repos\AbstractFactory\AbstarctFactory\obj\Debug\AbstarctFactory.exe
+C:\Users\emine\source\repos\AbstractFactory\AbstarctFactory\obj\Debug\AbstarctFactory.pdb
